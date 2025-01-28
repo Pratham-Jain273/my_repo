@@ -13,8 +13,7 @@ Attendance Marking:
 Automatically mark attendance upon successful recognition of a registered face.
 Data Storage:
 
-Maintain attendance logs in a database with details like name, date, and time of attendance.
-Reporting:
+
 
 Generate attendance reports for specific users, groups, or timeframes.
 Notifications (Optional):
